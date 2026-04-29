@@ -1,4 +1,14 @@
 # 🏠 House Price Prediction System (Full Stack ML Project)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-orange)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-EDA-purple)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-teal)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Chart.js](https://img.shields.io/badge/Chart.js-Visualization-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🚀 Overview
 
