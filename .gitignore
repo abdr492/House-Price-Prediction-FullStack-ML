@@ -1,0 +1,37 @@
+# Python
+
+venv/
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files (optional)
+
+data/raw/*.csv
+
+# Model files (optional - keep if needed)
+
+# models/*.pkl
+
+# VS Code
+
+.vscode/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Node.js (Frontend)
+
+frontend/node_modules/
+frontend/build/
+
+# Environment variables
+
+.env
+
+# Logs
+
+*.log
