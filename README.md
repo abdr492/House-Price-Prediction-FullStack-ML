@@ -88,9 +88,7 @@ npm start
 
 ---
 
-## 📸 Screenshots
 
-(Add your screenshots here)
 
 ---
 
@@ -102,6 +100,4 @@ npm start
 
 ---
 
-## 👨‍💻 Author
 
-Your Name
